@@ -3,7 +3,6 @@
 
 pragma solidity ^0.8.0;
 
-import "../../utils/Counters.sol";
 import "../../utils/math/SafeCast.sol";
 import "../extensions/IGovernorTimelock.sol";
 import "../Governor.sol";
